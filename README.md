@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lutfi Husaeri</h1>
 <h3 align="center"> Chill deveoper!!!</h3>
 
-<p align="left"> <img src="pppppppp.jpg" alt="bayu1s" /> </p>
+<p align="center"> <img src="pppppppp.jpg" alt="lutfi" /> </p>
 
 - 👨‍💻 You can also check out my portfolio at [https://lutfiHusaeri.github.io/](https://lutfiHusaeri.github.io/)
 
