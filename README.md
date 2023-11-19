@@ -2,7 +2,7 @@
 <h3 align="center"> Chill deveoper!!!</h3>
 
 <p align="left"> <img src="pppppppp.jpg" alt="bayu1s" /> </p>
-<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
+<img align="right" alt="Lutfiright" width="250" height="400" src="pppppppp.jpg">
 
 - 👨‍💻 You can also check out my portfolio at [https://lutfiHusaeri.github.io/](https://lutfiHusaeri.github.io/)
 
