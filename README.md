@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lutfi Husaeri</h1>
-<h3 align="center"> Chill deveoper!!!</h3>
+<h3 align="center"> Chill developer!!!</h3>
 
 <p align="center"> <img src="pppppppp.jpg" alt="lutfi" /> </p>
 
